@@ -25,7 +25,7 @@ from numpy import array
 from os.path import dirname, join
 from tqdm import tqdm
 from PIL import Image
-from scipy.misc import imresize
+#from scipy.misc import imresize
 from scipy.signal import convolve2d
 from skimage.segmentation import slic, mark_boundaries, clear_border
 from skimage.measure import label, regionprops
