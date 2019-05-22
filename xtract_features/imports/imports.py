@@ -10,6 +10,8 @@ import cv2
 import math
 import statistics
 
+!pip install python-resize-image
+
 from numpy import newaxis
 from numpy import array
 from os.path import dirname, join
