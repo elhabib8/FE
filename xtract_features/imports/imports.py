@@ -9,6 +9,7 @@ import pickle
 import cv2
 import math
 import statistics
+!pip install --upgrade scipy
 
 !python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
 
