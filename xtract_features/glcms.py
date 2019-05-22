@@ -1,3 +1,13 @@
+!pip install --upgrade scipy
+
+!python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+
+!pip install pillow
+!pip install python-resize-image
+from resizeimage import resizeimage
+!python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+
+
 
 from .imports import *
 
